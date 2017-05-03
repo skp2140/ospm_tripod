@@ -1,2 +1,2 @@
-include <ospm_tripod.scad>
+include <index.scad>
 Tripod();
